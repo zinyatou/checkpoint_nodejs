@@ -1,0 +1,17 @@
+{
+  "name": "checkpoint_nodejs",
+  "version": "1.0.0",
+  "main": "file.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "generate-password": "^1.7.0"
+  },
+  "devDependencies": {},
+  "description": ""
+}
